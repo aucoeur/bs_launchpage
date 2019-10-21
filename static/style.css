@@ -10,7 +10,7 @@
 
 .hero-background-img {
   position: relative;
-  background: rgba(255, 255, 255, 0.3); /* If our image is bright, we can tone it down with this darker overlay */
+  background: rgba(255, 255, 255, 0.2); /* If our image is bright, we can tone it down with this darker overlay */
   padding-top:100px;  
   padding-bottom:100px;
 }
@@ -31,5 +31,6 @@
 }
 
 .hero-text {
-  color: #000000;
+  /* background-color:rgba(255, 255, 255, 0.75); */
+  color: black;
 }
