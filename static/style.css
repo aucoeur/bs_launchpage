@@ -18,7 +18,7 @@
 .hero-background-img:after {
   content: "";
   position: absolute;
-  background-image: url("static/img/fishmonster.jpg");
+  background-image: url("img/fishmonster.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top 15% right;
